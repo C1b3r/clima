@@ -1,10 +1,10 @@
-#Clima - Prestashop 1.7.7.1  free module weather
+# Clima - Prestashop 1.7.7.1  free module weather
 
 _This module shows the time on the page, connecting to the openweathermap api through the geolocation by ip of the visitor It also has the prestashop geoip2 library to make the geolocation task easier_
 
 ### Prerequisites 📋
 
-_You have to create an account at  _
+_You have to create an account at_
 
 * [Openweathermap](https://home.openweathermap.org/users/sign_up) - Weather API
 * [Maxmind geolite2](https://dev.maxmind.com/geoip/geoip2/geolite2/) - Geoip library for prestashop
